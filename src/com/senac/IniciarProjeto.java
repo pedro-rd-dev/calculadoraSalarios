@@ -14,8 +14,9 @@ public class IniciarProjeto {
         double salarioPlenoMes = salarioPlenoHora * quantidadeHorasTrabalhadasNoDia * quantidadeDeDiasTralhadosNoMes;
         double salarioSeniorMes = salarioSeniorHora * quantidadeHorasTrabalhadasNoDia * quantidadeDeDiasTralhadosNoMes;
 
-
-        System.out.println();
+        System.out.println(salarioJuniorMes);
+        System.out.println(salarioPlenoMes);
+        System.out.println(salarioSeniorMes);
 
     }
 

@@ -1,10 +1,14 @@
 package com.senac;
 
+import java.util.Scanner;
+
 public class Calculadora {
     public static void main(String[] args) {
 
         double primeiroNumero = 4.0;
         double segundoNumero = 8.2;
+
+
 
         double soma = primeiroNumero + segundoNumero;
         double subtracao = primeiroNumero - segundoNumero;
